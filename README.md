@@ -1,2 +1,2 @@
 # Phonebook_management
-phonebook management using linked list
+phonebook management using Linked list
